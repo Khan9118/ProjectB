@@ -7,5 +7,9 @@ public class DemoB {
 		
 		System.out.println("Java is Fun");
 	}
+	public static void(int a, int b) {
+	System.out.println(a + b);
+
+}
 
 }
